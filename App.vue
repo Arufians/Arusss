@@ -19,7 +19,7 @@ onMounted(() => {
 </script>
 
 <template>
-	<div class="text-container">ar://hyperdefivault</div>
+	<div class="text-container">ar://arufianthemehhh/div>
 	<div class="rain" ref="rainContainer"></div>
 </template>
 
